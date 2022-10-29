@@ -9,8 +9,8 @@ elif nterm==1:
 else:
  print("Fibonacci Series")
  while count<nterm:
- print(n1)
- nth=n1+n2
- n1=n2
- n2=nth
- count+=1
+    print(n1)
+    nth=n1+n2
+    n1=n2
+    n2=nth
+    count+=1
